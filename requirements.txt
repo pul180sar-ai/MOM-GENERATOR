@@ -1,5 +1,5 @@
 streamlit 
-google.generativeas
+google.generativeai
 pypdf
 opencv-python-headless
 python-docx

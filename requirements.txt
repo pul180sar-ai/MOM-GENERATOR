@@ -1,0 +1,6 @@
+streamlit 
+google.generativeas
+pypdf
+opencv-python
+python-docx
+pillow
